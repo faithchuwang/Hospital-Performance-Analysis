@@ -103,6 +103,18 @@ A 4-page Power BI dashboard was built covering:
 
 ---
 
+## Dashboard Preview
+
+### Page 1 — Operational Overview
+<img width="2425" height="1354" alt="Operational Overview" src="https://github.com/user-attachments/assets/7122c029-f1c9-49d1-bce8-fb122fb1b560" />
+
+
+### Page 2 — Clinical Performance
+![Clinical Performance](your-image-link-here)
+
+### Page 3 — Financial Analysis
+![Financial Analysis](your-image-link-here)
+
 ## Results/Findings
 1. The hospital demonstrates strong clinical effectiveness with a 
    **94.2% recovery rate** and lean average LOS of **2.59 days** 
