@@ -13,6 +13,7 @@ Internship Program.
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Data Analysis](#data-analysis)
+- [Dashboard Preview](#dashboard-preview)
 - [Results](#resultsfindings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
@@ -116,6 +117,7 @@ A 4-page Power BI dashboard was built covering:
 ### Page 3 — Financial Analysis
 <img width="2428" height="1369" alt="Financial Analysis" src="https://github.com/user-attachments/assets/b44fd8ed-5a23-41b1-99d2-ce6cd8dc30f9" />
 
+---
 
 ## Results/Findings
 1. The hospital demonstrates strong clinical effectiveness with a 
