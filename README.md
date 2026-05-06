@@ -1,2 +1,24 @@
-# Hospital-Performance-Analysis
-End-to-end healthcare analytics project using Excel for data cleaning and Power BI for analysis and dashboarding. Analyzes 5,000 hospital encounters to evaluate patient flow, readmissions, operational efficiency, and departmental performance.
+# Hospital Performance Analysis
+
+### Project Overview
+
+### Data Sources
+
+### Tools
+- Excel - Data Cleaning
+- Power Query - Data Cleaning
+- Power BI - Creating reports
+
+### Data Cleaning/Preparation
+
+### Exploratory Data Analysis
+
+### Data Analysis
+
+### Results/Findings
+
+### Recommendations
+
+### Limitations
+
+### References
