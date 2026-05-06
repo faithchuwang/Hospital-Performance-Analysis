@@ -110,10 +110,12 @@ A 4-page Power BI dashboard was built covering:
 
 
 ### Page 2 — Clinical Performance
-![Clinical Performance](your-image-link-here)
+<img width="2453" height="1387" alt="Clinical Performance" src="https://github.com/user-attachments/assets/cb7e1d6d-287d-4e73-99b2-7195947db132" />
+
 
 ### Page 3 — Financial Analysis
-![Financial Analysis](your-image-link-here)
+<img width="2428" height="1369" alt="Financial Analysis" src="https://github.com/user-attachments/assets/b44fd8ed-5a23-41b1-99d2-ce6cd8dc30f9" />
+
 
 ## Results/Findings
 1. The hospital demonstrates strong clinical effectiveness with a 
